@@ -9,12 +9,12 @@ package ejemplofacade;
  * @author Home
  */
 public class arroz implements restaurante {
-
+ 
     @Override
     public void prepara() {
         System.out.println("Estamos preparando arroz!!");
-    }
-
+    } 
+    
     @Override
     public void servirPlato(restaurante r) {
         System.out.println("Se sirve el plato de arroz");

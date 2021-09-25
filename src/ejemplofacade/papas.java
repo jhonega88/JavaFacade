@@ -14,7 +14,7 @@ public class papas implements restaurante {
     public void prepara() {
         System.out.println("Estamos preparando papas!!");
     }
-
+ 
   @Override
     public void servirPlato(restaurante r) {
         System.out.println("Se sirve el plato de papas");

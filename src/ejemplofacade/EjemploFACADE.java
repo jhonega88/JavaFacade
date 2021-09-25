@@ -17,7 +17,7 @@ public class EjemploFACADE {
     
     public static void prepararPapas()
     {
-        cheefPapas.prepara();
+        cheefPapas.prepara(); 
     }
     public static void prepararZanahorias()
     {

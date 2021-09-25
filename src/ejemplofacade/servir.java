@@ -19,7 +19,7 @@ public class servir implements restaurante {
     public void prepara() {
         System.out.println("Se prepara el emplatado");
     }
-
+ 
     
     public void servirPlato(restaurante r)
     {

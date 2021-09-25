@@ -15,7 +15,7 @@ public class zanahorias implements restaurante {
         System.out.println("Estamos preparando zanahorias!!");
     }
 
-    
+     
     @Override
     public void servirPlato(restaurante r) {
         System.out.println("Se sirve el plato de zanahorias");

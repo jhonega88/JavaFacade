@@ -10,7 +10,7 @@ package ejemplofacade;
  */
 public interface restaurante {
     void prepara();   
-    void servirPlato(restaurante r);
+    void servirPlato(restaurante r); 
 //    @Override
 //    public String toString();
 }
